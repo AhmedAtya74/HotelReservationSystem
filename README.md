@@ -2,7 +2,7 @@
 
 ## Web based Information Systems Development Course Project, ex: booking.com
 
-### Tools
+### Technology
 - Java
 - JSP
 - Servlet
